@@ -5,7 +5,7 @@
       background-image : url(../static/imagenes/fondo.jpg);
       font-family: "Consolas","Open Sans", "Arial", "Helvetica", sans-serif;
       color: #0fff26;
-      font-size:12px;
+      font-size:13px;
     }
     h1 {
       margin-top:0px;
@@ -70,7 +70,7 @@
       font-size: 20px;
       width: 140px;
       height: 50px;
-      color: white;
+      color: Orange;
       background-color: green;
       border-radius: 11px;
     }
